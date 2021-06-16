@@ -3,4 +3,4 @@ Hello World
 disini adalah catatan pertama Github saya
 Repo ini akan berisi Project project Data yang saya kerjakan
 Saya coba edit Prolog Project ini
-belajar github untuk membatu pekerjaan saya
+ternyata sudah selesai belajar githubnya
