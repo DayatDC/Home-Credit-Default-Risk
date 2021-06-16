@@ -3,5 +3,6 @@ Rencana Project
 project e-comerce (segmentasi customer)
 project edukasi (Student Exam Regresion)
 project gojek
-project kesehatan
-project telekomunikasi
+project kesehatan ( Identifikasi Sakit Jantung )
+project telekomunikasi (5G speed)
+Project Finance
