@@ -1,6 +1,6 @@
 Rencana Project
 
-project e-comerce
-project edukasi
+project e-comerce (segmentasi customer)
+project edukasi (Student Exam Regresion)
 project kesehatan
 project telekomunikasi
