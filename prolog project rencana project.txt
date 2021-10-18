@@ -1,8 +1,0 @@
-Rencana Project
-
-project e-comerce (segmentasi customer)
-project edukasi (Student Exam Regresion)
-project gojek
-project kesehatan ( Identifikasi penyakit Hati )
-project telekomunikasi (5G EDA)
-Project Contruction
